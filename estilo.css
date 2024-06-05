@@ -1,0 +1,48 @@
+body{
+    background: rgb(177, 91, 166);
+    color: rgb(230, 219, 219);
+}
+.principal{
+    background: rgb(157, 139, 104);
+    text-align: center;
+}
+img{
+    width: 20%;
+}
+body{
+    background: rgb(116, 71, 71);
+    color: aqua;
+}
+.segunda{
+    background: rgb(208, 107, 208);
+    text-align: center;
+}
+img{
+    width: 19%;
+}
+body{
+    background-color: blue;
+    color: blanchedalmond;
+}
+.tercera{
+    background-color: black;
+        color: brown;
+}
+img{
+    width
+}
+.libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  .libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
